@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             /* --- Description ---
-            We're creating a boolean variable. We'll use the 'success' boolean in a while loop. 
+            We're creating a boolean. We'll use the 'success' boolean in a while loop. 
             We'll prompt the user for a 'numInput' input. We'll prevent using string instead of 
             integer with an 'if'. If the 'numInput' defined as a string at the beginning of the 
             loop receives input from the user as a string, the loop continues as 'true', and the 'else' part executes. 
