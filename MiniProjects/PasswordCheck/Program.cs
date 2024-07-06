@@ -10,7 +10,7 @@
             Console.WriteLine("Enter password again: ");
             string passwordA =  Console.ReadLine() ;
 
-            if ( !password.Equals(string.Empty) && !password.Equals(string.Empty))
+            if ( !password.Equals(string.Empty) && !passwordA.Equals(string.Empty))
             {
                 if (password.Equals(passwordA))
                 {
